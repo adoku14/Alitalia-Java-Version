@@ -16,12 +16,6 @@ Username: Ali
 Password: Doku
 
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
 ### Who do I talk to? ###
 My contact:
 Ali Doku
